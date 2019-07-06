@@ -1,2 +1,3 @@
-# CDLab
-6th Sem CD Lab
+# Lex
+
+Some basic lex programs
